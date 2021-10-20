@@ -1,6 +1,7 @@
 # readme_practica
 practica 2.6
 
+Hecho por:
 M.A.E
 JJ
 
