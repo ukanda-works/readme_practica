@@ -10,3 +10,4 @@ Asi como de posibles errores comunes a la hora de compilar.
 Tambien sirve para informar sobre la autoria de un codigo, la licencia, registros que usa el programa etc...
 
 En definitiba un archivo readme sirve para informar sobre el codigo al que acompaña
+# Tarea-2.7
